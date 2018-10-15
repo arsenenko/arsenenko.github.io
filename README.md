@@ -10,7 +10,7 @@
 
 
 
-<center><H1> <em> РџСЂРѕРІРµСЂРєР° СЃР»РѕР¶РЅРѕСЃС‚Рё РїР°СЂРѕР»СЏ</center></H1></em><a><center><b>Are you sure you use good passwords???</b></center>
+<center><H1> <em> Проверка сложности пароля/center></H1></em><a><center><b>Are you sure you use good passwords???</b></center>
 
 <center><img src="https://image.ibb.co/jmTjde/936_v3.png" alt="password">
 <center><img src="https://image.ibb.co/cMCzBz/strelki.jpg" alt="password">
