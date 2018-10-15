@@ -17,7 +17,7 @@
 <center>
 <form name="my_form" method="post" action="#" onsubmit="return checkPassword(this);">
 <p>
-<em><b>РџСЂРѕРІРµСЂРєР° СЃС‚РѕР№РєРѕСЃС‚Рё РїР°СЂРѕР»СЏ:</b> </em> <input type="password" name="password"/>
+<em><b> Проверка стойкости пароля:</b> </em> <input type="password" name="password"/>
 </p>
 <p>
 <input type="submit" name="check" value="РџСЂРѕРІРµСЂРёС‚СЊ" />
